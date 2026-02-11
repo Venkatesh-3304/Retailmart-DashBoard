@@ -1,7 +1,5 @@
 # RetailMart Enterprise Analytics Platform
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)](https://www.postgresql.org/)
-[![License](https://img.shields.io/badge/License-Educational-green)](LICENSE)
 
 > A comprehensive, production-ready analytics platform built with PostgreSQL, featuring 25+ views, 10 materialized views, 32 JSON export functions, and a 7-tab interactive dashboard.
 
